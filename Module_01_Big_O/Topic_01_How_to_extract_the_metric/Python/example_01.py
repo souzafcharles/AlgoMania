@@ -4,7 +4,6 @@ Instructor: Thiago Brito - Universo DEV
 Example adapted by: Charles Fernandes de Souza
 Date: September 23, 2024
 """
-
 def find_sum(my_array):
     total_sum = 0
     for item in my_array:
