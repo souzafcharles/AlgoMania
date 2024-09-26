@@ -7,16 +7,14 @@ package com.souza.charles;
  */
 import java.util.Queue;
 import java.util.LinkedList;
-
 public class Example04 {
 
     public static void main(String[] args) {
         Queue<Integer> myQueue = new LinkedList<>();
-
         myQueue.add(1);
         myQueue.add(2);
         myQueue.add(3);
-
+        myQueue.add(4);
         // The size() method is O(1) (constant time) because it returns
         // the number of elements in the queue without needing to
         // traverse the entire data structure.
