@@ -7,6 +7,7 @@ package com.souza.charles;
  */
 
 public class ArraySum {
+    
     public static int findSum(int[] myArray) {
         int totalSum = 0;
         for (int item: myArray) {
