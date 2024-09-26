@@ -18,7 +18,7 @@
 
 ## Modules
 
-- [1 Big(01)]()
+- [1 Big(01)](https://github.com/souzafcharles/AlgoMania/tree/master/Module_01_Big_O)
 - [2 Data structure]()
 - [3 Heuristics and Techniques]()
 - [4 Challenges]()
