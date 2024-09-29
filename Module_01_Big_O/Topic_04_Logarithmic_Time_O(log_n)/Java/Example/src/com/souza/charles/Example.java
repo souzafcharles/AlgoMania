@@ -5,7 +5,6 @@ package com.souza.charles;
  Example adapted by: Charles Fernandes de Souza
  Date: September 8, 2024
  */
-
 public class Example {
     public static Integer binarySearch(int[] myArray, int item) {
         int lower = 0;
@@ -26,9 +25,7 @@ public class Example {
     }
 
     public static void main(String[] args) {
-
         int[] myArray = {10, 20, 30, 40};
         System.out.println(binarySearch(myArray, 30)); //
     }
 }
-
