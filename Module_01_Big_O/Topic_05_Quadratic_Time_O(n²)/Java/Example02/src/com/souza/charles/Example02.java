@@ -3,7 +3,7 @@ package com.souza.charles;
  Course title: AlgoMania
  Instructor: Thiago Brito - Universo DEV
  Example adapted by: Charles Fernandes de Souza
- Date: October 8, 2024
+ Date: October 01, 2024
  */
 public class Example02 {
     public static int[] bubbleSort(int[] myArray) {
