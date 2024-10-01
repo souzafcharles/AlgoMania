@@ -3,7 +3,7 @@ package com.souza.charles;
  Course title: AlgoMania
  Instructor: Thiago Brito - Universo DEV
  Example adapted by: Charles Fernandes de Souza
- Date: September 8, 2024
+ Date: September 28, 2024
  */
 public class Example {
     public static Integer binarySearch(int[] myArray, int item) {
