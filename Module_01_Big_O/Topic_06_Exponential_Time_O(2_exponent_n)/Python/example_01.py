@@ -24,5 +24,4 @@ fibonacci(7) = 13
 fibonacci(8) = 21
 fibonacci(9) = 34
 fibonacci(10) = 55
-Fibonacci(10) = 55
 """
