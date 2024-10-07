@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5af40f6c-1533-417f-aebe-34f8b7b0e11d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Topic_06_Exponential_Time_O(2^n)​​/Python/example_01.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2mqr1uGpiORX4NWKYTUvXFYMI0W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Example01.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Charles/OneDrive/Documentos/Cursos_Livres/UniversoDEV/AlgoMania/Module_01_Big_O/Topic_05_Quadratic_Time_O(n²)/Java/Example01",
+    "onboarding.tips.debug.path": "C:/Users/Charles/OneDrive/Documentos/Cursos_Livres/UniversoDEV/AlgoMania/Module_01_Big_O/Topic_05_Quadratic_Time_O(n²)/Java/Example01/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Example01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.souza.charles.Example01" />
+      <module name="Example01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.souza.charles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5af40f6c-1533-417f-aebe-34f8b7b0e11d" name="Changes" comment="" />
+      <created>1727814737816</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727814737816</updated>
+    </task>
+    <servers />
+  </component>
+</project>
