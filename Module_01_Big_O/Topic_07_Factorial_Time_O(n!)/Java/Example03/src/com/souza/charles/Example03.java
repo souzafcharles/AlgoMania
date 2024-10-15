@@ -1,5 +1,10 @@
 package com.souza.charles;
-
+/**
+ Course title: AlgoMania
+ Instructor: Thiago Brito - Universo DEV
+ Example adapted by: Charles Fernandes de Souza
+ Date: October 15, 2024
+ */
 public class Example03 {
     public static int factorial(int maxNumber) {
         if (maxNumber == 0) {
