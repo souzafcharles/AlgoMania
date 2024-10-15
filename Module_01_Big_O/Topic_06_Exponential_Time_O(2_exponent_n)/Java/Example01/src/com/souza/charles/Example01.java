@@ -14,7 +14,6 @@ public class Example01 {
         // The combination of these recursive calls generates an exponential number of calls, leading to O(2^n) complexity
         return fibonacci(number - 2) + fibonacci(number - 1);
     }
-
     public static void main(String[] args) {
         int number = 10;
         System.out.println(fibonacci(number));
