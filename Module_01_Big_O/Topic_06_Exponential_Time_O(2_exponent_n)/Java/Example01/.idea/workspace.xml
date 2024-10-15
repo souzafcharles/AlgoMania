@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04c404e-9b48-4dc5-b4af-643a145f3925" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../Topic_06_Exponential_Time_O(2^n)​​/Python/example_01.py" beforeDir="false" />
-    </list>
+    <list default="true" id="b04c404e-9b48-4dc5-b4af-643a145f3925" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
